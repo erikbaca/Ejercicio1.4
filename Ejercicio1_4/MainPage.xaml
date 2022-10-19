@@ -32,7 +32,7 @@
                        Padding="20,10,30,0"/>
                 
                 <Entry x:Name="txtnombre" 
-                       Placeholder="ingreso su nombre"
+                       Placeholder="ingrese el nombre de la persona"
                        Margin="20,-5,30,0" 
                        FontSize="16" 
                        TextColor="Black"
